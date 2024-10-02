@@ -6,3 +6,5 @@
 ###### This is an H6 Header
 
 Added Markdown headers to organize content 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
